@@ -1,0 +1,27 @@
+h2{
+    color: darkcyan;
+    font-style: italic;
+}
+
+a:link{
+    text-decoration: none;
+}
+.yel{
+    background-color: yellow;
+}
+p{
+    color: coral;
+}
+.a{
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b{
+    color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 7px;
+}
+#link{
+    font-style: italic;
+    background-color: yellow;
+}
